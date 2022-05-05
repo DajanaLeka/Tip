@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#mainSection {
+    background-image: url("drinkphoto.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 95vh;
+}
+
+#billpart {
+    height: 25vh;
+    position: absolute;
+    width: 50vh;
+    margin-left: 115vh;
+    top: 60vh;
+    background-color: #171c1e;
+    text-align: center;
+}
+
+#billpart{
+    padding-top: 30px;
+    color: white;
+}
+
+#billtopay {
+    padding-bottom: 20px;
+}
+
+#billpart button {
+    color: #af6f23;
+    padding: 10px 20px;
+    font-family: 'Poppins', sans-serif;
+}
